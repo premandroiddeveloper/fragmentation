@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">fragmentation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="languages">
+        <item>c</item>
+        <item>cpp</item>
+        <item>java</item>
+        <item>python</item>
+        <item>ruby</item>
+        <item>html</item>
+        <item>css3</item>
+        <item>javascript</item>
+
+</string-array>
+    <string-array name="features">
+        <item>is a procedural programming language. It was initially developed by Dennis Ritchie in the year 1972. It was mainly developed as a system programming language to write an operating system. The main features of C language include low-level access to memory, a simple set of keywords, and clean style, these features make C language suitable for system programmings like an operating system or compiler development.
+
+Features of C Programming Language:
+
+Procedural Language
+Fast and Efficient
+Modularity
+Statically Type
+General Purpose Language
+Rich set of built in Operators
+Libraries with rich Functions
+Middle Level Language
+Portability
+Easy to Extend</item>
+        <item>C++ is an upgraded version of C programming. The main idea behind creating C++ programming was to add object orientation to the C programming language. The major upgradations are object-oriented programming methodology, namespace feature, operator overloading, error  exception handling. The motivation behind object-oriented programming is to try to see the whole world in the form of classes  objects.
+
+There are various features of C++ such as,
+
+Object Oriented
+Simple
+Platform Dependent
+Mid-level programming language
+Structured programming language
+Rich Library
+Memory Management
+Powerful  Fast
+Pointers
+Compiler based
+Syntax based language</item>
+        <item>
+            The primary objective of Java programming language creation was to make it portable, simple and secure programming language. Apart from this, there are also some excellent features which play an important role in the popularity of this language. The features of Java are also known as java buzzwords.
+
+A list of most important features of Java language is given below.
+
+Java Features
+Simple
+Object-Oriented
+Portable
+Platform independent
+Secured
+Robust
+Architecture neutral
+Interpreted
+High Performance
+Multithreaded
+Distributed
+Dynamic
+        </item>
+        <item>
+            Python is a dynamic, high level, free open source and interpreted programming language. It supports object-oriented programming as well as procedural oriented programming.
+In Python, we don’t need to declare the type of variable because it is a dynamically typed language.
+For example, x = 10
+Here, x can be anything such as String, int, etc.
+        </item>
+        <item>
+            Ruby language has many features. Some of them are explained below:
+
+Features of Ruby
+Object-oriented
+Flexibility
+Expressive feature
+Mixins
+Visual appearance
+Dynamic typing and Duck typing
+Exception handling
+Garbage collector
+Portable
+Keywords
+Statement delimiters
+Variable constants
+Naming conventions
+Keyword arguments
+Method names
+Singleton methods
+Missing method
+Case Sensitive
+        </item>
+        <item>
+            HTML definition is Hyper Text Markup Language and it is a markup language. A markup language is a set of markup tags and the tags describe document content. HTML documents contain HTML tags and plain text. HTML documents are also called web pages.
+        </item>
+        <item>
+            CSS3 version introduced new features that allowed developers to style HTML elements with less CSS code. CSS3 is most notorious for modules that speed up the specification process.
+
+At first, browsers did not support CSS3 features, and it took a while for them to become fully compatible.
+        </item>
+       <item>
+           Do you know what JavaScript programs can do? Here is the answer, today we are going to learn about the features of JavaScript in depth. JavaScript does have some special features that make it such a popular language. Javascript is a very handy language to learn today since almost every website uses it. The coolest part of javascript is, you don’t need prior knowledge of any programming language. You just need to have some basic knowledge about JavaScript. And for that basic knowledge, you have to visit our DataFlair’s complete JavaScript tutorial series.
+       </item>
+
+    </string-array>
+</resources>
